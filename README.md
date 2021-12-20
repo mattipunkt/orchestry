@@ -1,2 +1,3 @@
-# classicalspotify
-A mobile app that gives classical music a new interface, but streams from Spotify (or other streaming services)
+# Orchestry
+
+Listen to your favorite classical music over Spotify, but with a clean and optimized interface made for classical music!
